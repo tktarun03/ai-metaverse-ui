@@ -1,0 +1,11 @@
+{
+    "name": "angular-metaverse-dashboard",
+    "version": "1.0.0",
+    "dependencies": {
+        "@angular/core": "^13.0.0",
+        "stencil-metaverse-ui": "file:../stencil-metaverse-ui/dist"
+    },
+    "scripts": {
+        "start": "ng serve"
+    }
+}
